@@ -3,7 +3,7 @@
 This is a small AI project trainig on images of cats and dogs and teaching a model to identify which is which. The dataset can be found here:
 https://www.kaggle.com/datasets/arpitjain007/dog-vs-cat-fastai
 
-The model will use TensorFlow and Keras to create layers to train teh AI model. The results can then be viewwed in a browser.
+The model will use TensorFlow and Keras to create layers to train the AI model. The results can then be viewwed in a browser.
 Github wouldn't let me include the .pkl files created for the dataset, hence why I have included the link.
 
 ### **Installation**
