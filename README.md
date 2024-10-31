@@ -32,7 +32,7 @@ Serving TensorBoard on localhost; to expose to the network, use a proxy or pass 
 TensorBoard 2.17.1 at http://localhost:6006/ (Press CTRL+C to quit)
 ```
 
-At this point, you will just need to copy the ```localhost``` address above, copy it into a btrowser, and you should get a visualization of the 
+At this point, you will just need to copy the ```localhost``` address above, copy it into a browser, and you should get a visualization of the 
 results of however many models you ran.
 
 I got this simple project from the following:
