@@ -16,7 +16,7 @@ is pointing to the right place. For me it was
 
 Once you have downloaded the dataset at the link above and the **DIRECTORY** variable is pointing to the correct place, you can run
 **__cats_vs_dogs.py__** by opening a terminal, pointing to the containting directory 
-(for me it is ``` C:\Users\callm\PycharmProjects\catsAndDogsAI```) and typing ```python cats_vs_dogs.py``` in the terminal and pressing enter.
+(for me it is ```C:\Users\callm\PycharmProjects\catsAndDogsAI```) and typing ```python cats_vs_dogs.py``` in the terminal and pressing enter.
 Once this has executed, you will have your ```.pkl``` files. Then you will simply need to run the ```training.py``` file by typing ```python training.py```
 in the terminal and pressing enter. 
 
